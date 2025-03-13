@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\apicatalogo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -17,6 +17,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\apicatalogo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\apicatalogo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|c:\\users\\gustavo.melo\\projetos\\apicatalogo\\apicatalogo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1160E3AF-4F03-4216-8A4E-9AE84B639DD0}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +51,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Product.cs",
-              "RelativeToolTip": "APICatalogo\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T01:39:59.219Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "APICatalogo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\appsettings.Development.json",
+              "RelativeToolTip": "APICatalogo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T01:07:32.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "APICatalogo",
-              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
-              "RelativeDocumentMoniker": "APICatalogo\\APICatalogo.csproj",
-              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
-              "RelativeToolTip": "APICatalogo\\APICatalogo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-11T01:39:21.627Z",
+              "DocumentIndex": 6,
+              "Title": "APICatalogo.http",
+              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo.http",
+              "RelativeDocumentMoniker": "APICatalogo\\APICatalogo.http",
+              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo.http",
+              "RelativeToolTip": "APICatalogo\\APICatalogo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-12T00:07:57.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Category.cs",
-              "RelativeToolTip": "APICatalogo\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
+              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeToolTip": "APICatalogo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T00:15:16.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "APICatalogo\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T01:36:52.812Z",
+              "WhenOpened": "2025-03-12T00:09:55.019Z",
               "EditorCaption": ""
             },
             {
@@ -79,9 +108,48 @@
               "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
               "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Program.cs",
               "RelativeToolTip": "APICatalogo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T01:30:29.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Product.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Product.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA9wBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:39:59.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APICatalogo.csproj",
+              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+              "RelativeDocumentMoniker": "APICatalogo\\APICatalogo.csproj",
+              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+              "RelativeToolTip": "APICatalogo\\APICatalogo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T01:39:21.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\gustavo.melo\\Projetos\\APICatalogo\\APICatalogo\\Models\\Category.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:36:52.812Z",
               "EditorCaption": ""
             }
           ]
