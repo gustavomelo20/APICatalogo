@@ -26,14 +26,18 @@ namespace APICatalogo.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
-                        .HasColumnType("longtext");
+                        .IsRequired()
+                        .HasMaxLength(80)
+                        .HasColumnType("varchar(80)");
 
                     b.Property<string>("imageUrl")
-                        .HasColumnType("longtext");
+                        .IsRequired()
+                        .HasMaxLength(350)
+                        .HasColumnType("varchar(350)");
 
                     b.HasKey("CategoryId");
 
-                    b.ToTable("Categories");
+                    b.ToTable("categories");
                 });
 
             modelBuilder.Entity("APICatalogo.Models.Product", b =>
@@ -49,25 +53,31 @@ namespace APICatalogo.Migrations
                         .HasColumnType("datetime(6)");
 
                     b.Property<string>("Description")
-                        .HasColumnType("longtext");
+                        .IsRequired()
+                        .HasMaxLength(300)
+                        .HasColumnType("varchar(300)");
 
                     b.Property<string>("ImageUrl")
-                        .HasColumnType("longtext");
+                        .IsRequired()
+                        .HasMaxLength(300)
+                        .HasColumnType("varchar(300)");
 
                     b.Property<string>("Name")
-                        .HasColumnType("longtext");
+                        .IsRequired()
+                        .HasMaxLength(80)
+                        .HasColumnType("varchar(80)");
 
                     b.Property<decimal>("Price")
-                        .HasColumnType("decimal(65,30)");
+                        .HasColumnType("decimal(10,2");
 
-                    b.Property<decimal>("Quantity")
-                        .HasColumnType("decimal(65,30)");
+                    b.Property<float>("Quantity")
+                        .HasColumnType("float");
 
                     b.HasKey("ProductId");
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products");
+                    b.ToTable("products");
                 });
 
             modelBuilder.Entity("APICatalogo.Models.Product", b =>
